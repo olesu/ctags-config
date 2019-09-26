@@ -1,0 +1,9 @@
+--exclude=node_modules
+--exclude=target
+--exclude=.git
+
+--exclude=*.ml
+
+--langmap=vim:+(vimrc)
+
+--sort=no
